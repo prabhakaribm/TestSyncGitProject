@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestSyncGitProject
+  gitServerName: prabhakaribm
+  gitUrl: https://github.com/prabhakaribm
+  gitUsername: prabhakaribm
+  gitBranch: main
